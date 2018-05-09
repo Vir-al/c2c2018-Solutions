@@ -11,11 +11,12 @@ public class MathUtil{
 			a = a-b;
 		}
 
-		return (b , a % b);
+		return gcd(b , a % b);
 	}
 
 	public static long lcm(long a, long b){
-		return 0;
+		long gcdAB = gcd(a,b);
+		return ((a/gcdAB) * b);
 	}
 
 	public static long min(long[] arr){
@@ -66,5 +67,14 @@ public class MathUtil{
 		return ((double)sum)/arr.length;
 	}
 
+
+}
+
+class demo {
+	public static void main(String[] args) {
+		System.out.println("GCD : " + MathUtil.gcd(5487741,5488974));
+		System.out.println("LCM : " + MathUtil.lcm(5487741,5488974));
+		
+	}
 
 }
