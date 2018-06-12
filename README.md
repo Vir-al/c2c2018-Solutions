@@ -13,9 +13,9 @@ A collection of solutions to the problems enlisted in [Campus To Corporate Cours
 
 <table>
     <td>
-        <a href="https://github.com/Vir-al" style="text-decoration:none;">
+        <a href="https://github.com/Vir-al">
             <img src="https://github.com/Vir-al.png" height=150px width=150px><br>
-            Viral Limbani
+            <center>Viral Limbani</center>
         </a>
     </td>
     <td>
