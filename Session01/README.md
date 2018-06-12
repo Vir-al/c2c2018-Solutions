@@ -1,8 +1,8 @@
-## Practice set
+## Practice Set
 
-### Calculator :
+### Calculator:
 
-1. Write a calculator program. Specifications:
+_Write a calculator program. Specifications:_
     1. Display a menu to the user. Menu should have the following options:
         1. Addition
 		2. Subtraction
