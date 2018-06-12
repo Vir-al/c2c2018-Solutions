@@ -1,8 +1,11 @@
 # Campus2Corporate 2018 Solutions
 
 A collection of solutions to the problems enlisted in [Campus To Corporate Course, 2018](https://github.com/sunnypatel165/c2c2018).
+<center>
 
 ![Solution Image](https://www.memecreator.org/static/images/memes/4635496.jpg)
+
+</center>
 
 ## Index
 
