@@ -14,13 +14,13 @@ A collection of solutions to the problems enlisted in [Campus To Corporate Cours
 <table style="border:none;">
     <td>
         <a href="https://github.com/Vir-al">
-            <img src="https://github.com/Vir-al.png"><br>
+            <img src="https://github.com/Vir-al.png" height=150px width=150px><br>
             Viral Limbani
         </a>
     </td>
     <td>
         <a href="https://github.com/raoniz">
-            <img src="https://github.com/raoniz.png"><br>
+            <img src="https://github.com/raoniz.png" height=150px width=150px><br>
             Rahul Soni
         </a>
     </td>
