@@ -6,8 +6,8 @@ A collection of solutions to the problems enlisted in [Campus To Corporate Cours
 
 ## Pre-requisites
 
-1. [JRE](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) to run the programs.
-2. [JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html) to edit and compile the programs.
+1. [JRE (Java Runtime Environment)](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) to run the programs.
+2. [JDK (Java Development Kit)](http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html) to edit and compile the programs.
 
 ## Contributors
 
@@ -15,7 +15,7 @@ A collection of solutions to the problems enlisted in [Campus To Corporate Cours
     <td>
         <a href="https://github.com/Vir-al">
             <img src="https://github.com/Vir-al.png" height=150px width=150px><br>
-            <center>Viral Limbani</center>
+            Viral Limbani
         </a>
     </td>
     <td>
