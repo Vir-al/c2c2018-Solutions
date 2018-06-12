@@ -11,9 +11,9 @@ A collection of solutions to the problems enlisted in [Campus To Corporate Cours
 
 ## Contributors
 
-<table style="border:none;">
+<table>
     <td>
-        <a href="https://github.com/Vir-al">
+        <a href="https://github.com/Vir-al" style="text-decoration:none;">
             <img src="https://github.com/Vir-al.png" height=150px width=150px><br>
             Viral Limbani
         </a>
