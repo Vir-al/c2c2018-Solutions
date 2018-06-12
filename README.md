@@ -11,8 +11,20 @@ A collection of solutions to the problems enlisted in [Campus To Corporate Cours
 
 ## Contributors
 
-- Viral Limbani [![Vir-al](https://github.com/Vir-al.png)](https://github.com/Vir-al)
-- Rahul Soni [![Vir-al](https://github.com/raoniz.png)](https://github.com/raoniz)]
+<table style="border:none;">
+    <td>
+        <a href="https://github.com/Vir-al">
+            <img src="https://github.com/Vir-al.png"><br>
+            Viral Limbani
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/raoniz">
+            <img src="https://github.com/raoniz.png"><br>
+            Rahul Soni
+        </a>
+    </td>
+</table>
 
 ## Index
 
