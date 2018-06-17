@@ -36,6 +36,13 @@ A collection of solutions to the problems enlisted in [Campus To Corporate Cours
 </details>
 
 <details>
+    <summary>Session 02</summary>
+
+1. [Pascal triangle](Session02#Pascal-)
+
+</details>
+
+<details>
     <summary>Session 03</summary>
 
 1. [Phone Emulator](Session03#phoneemulator-)
