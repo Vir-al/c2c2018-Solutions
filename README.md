@@ -36,6 +36,16 @@ A collection of solutions to the problems enlisted in [Campus To Corporate Cours
 </details>
 
 <details>
+<<<<<<< HEAD
+=======
+    <summary>Session 02</summary>
+
+1. [Pascal triangle](Session02#Pascal-)
+
+</details>
+
+<details>
+>>>>>>> upstream/master
     <summary>Session 03</summary>
 
 1. [Phone Emulator](Session03#phoneemulator-)
@@ -43,4 +53,8 @@ A collection of solutions to the problems enlisted in [Campus To Corporate Cours
 3. [Math Util](Session03#mathutil-)
 4. [Search Methods](Session03#searchmethods-)
 
+<<<<<<< HEAD
 </details>
+=======
+</details>
+>>>>>>> upstream/master
