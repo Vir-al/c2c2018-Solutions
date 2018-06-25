@@ -1,36 +1,36 @@
-class CharStack {
+class StringStack {
     private final static int MAX = 100;
-    private char[] arr;
+    private String[] arr;
     private int top;
 
-    CharStack() {
-        arr = new char[MAX];
+    StringStack() {
+        arr = new String[MAX];
         top = -1;
     }
 
-    public final char pop() {
+    public final String pop() {
         if(isEmpty()) {
             System.out.println("Error: Underflow!");
             System.exit(1);
         }
 
-        char t = arr[top];
-        arr[top] = '\u0000';
+        String t = arr[top];
+        arr[top] = null;
         top--;
         return t;
     }
 
-    public final void push(char c) {
+    public final void push(String s) {
         if(isFull()) {
             System.out.println("Error: Overflow!");
             System.exit(1);
         }
     
         top++;
-        arr[top] = c;
+        arr[top] = s;
     }
 
-    public final char peek() {
+    public final String peek() {
         if(isEmpty()) {
             System.out.println("Error: Empty Stack!");
             System.exit(1);
