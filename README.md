@@ -51,3 +51,12 @@ A collection of solutions to the problems enlisted in [Campus To Corporate Cours
 4. [Search Methods](Session03#searchmethods-)
 
 </details>
+
+<details>
+    <summary>Session 05</summary>
+
+1. [Character Stack](Session05#charstack)
+2. [String Stack](Session05#stringstack)
+3. [Sieve Of Eratosthenes](Session05#sieve-of-eratosthenes)
+
+</details>
