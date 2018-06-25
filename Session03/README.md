@@ -1,4 +1,4 @@
-# Practice set
+# Practice Set
 ### PhoneEmulator :
 1.  Write a class PhoneEmulator. It should have the following methods:
     1.  `call(long phoneNumber)`
