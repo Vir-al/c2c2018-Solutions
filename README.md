@@ -51,3 +51,10 @@ A collection of solutions to the problems enlisted in [Campus To Corporate Cours
 4. [Search Methods](Session03#searchmethods-)
 
 </details>
+<details>
+    <summary>Session 05</summary>
+
+1. [Char Stack](Session05#CharStack-)
+1. [String Stack](Session05#StringStack-)
+
+</details>
