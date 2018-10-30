@@ -60,3 +60,7 @@ A collection of solutions to the problems enlisted in [Campus To Corporate Cours
 3. [Sieve Of Eratosthenes](Session05#sieve-of-eratosthenes)
 
 </details>
+
+<details>
+    <summary>Session 06</summary>
+</details>
