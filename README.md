@@ -1,4 +1,4 @@
-# Campus2Corporate 2018 Solutions
+# Campus2Corporate 2018 Solution
 
 A collection of solutions to the problems enlisted in [Campus To Corporate Course, 2018](https://github.com/sunnypatel165/c2c2018).
 
